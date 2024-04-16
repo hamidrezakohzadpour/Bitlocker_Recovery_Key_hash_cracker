@@ -1,0 +1,2 @@
+python.exe Bitlocker_Recovery_Key_hash_cracker.py
+pause
