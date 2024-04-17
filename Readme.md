@@ -15,12 +15,13 @@ Sample: $bitlocker$3$16$bb707ffb5cc0f3651ee0oiii42b60932$1048576$12$a0625ebdcccb
 6. Run this command:
 
 ```
-python.exe script.py.
+python.exe script.py
 ```
    
 #### Tested on:
 	Windows 11,23H2 (OS Build 22631.3447)
 	Python 3.12.0
+	NVIDIA GeForce GTX 1650
 ####  Author:
 HamidReza Kohzadpour, 2024, kohzadpour@gmail.com
 
