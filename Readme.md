@@ -10,7 +10,12 @@
 
 	Sample: $bitlocker$3$16$bb707ffb5cc0f3651ee0oiii42b60932$1048576$12$a0625ebdcccbd80105000000$60$454096dd6kjkkiuii6091f8c9578023b5d901908527d80eb789891121kjkjc35bcdd708578894400dff0825f311e6a342afd5ef4e40a2ff7a95hjhgf9a
 
-6. Run this command: python.exe script.py.
+6. Run this command:
+
+   ```
+   python.exe script.py.
+   ```
+   
 #### Tested on:
 	Windows 11,23H2 (OS Build 22631.3447)
 	Python 3.12.0
