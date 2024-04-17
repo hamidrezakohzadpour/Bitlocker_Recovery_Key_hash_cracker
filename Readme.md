@@ -8,14 +8,14 @@
 4. Copy this script into run directory and side of john.exe
 5. Create a file into run directory with name "bitlocker_recovery_key_hash.txt" and put hash of recovery key in the file.
 
-Sample: $bitlocker$3$16$bb707ffb5cc0f3651ee0oiii42b60932$1048576$12$a0625ebdcccbd80105000000$60$454096dd6kjkkiuii6091f8c9578023b5d901908527d80eb789891121kjkjc35bcdd708578894400dff0825f311e6a342afd5ef4e40a2ff7a95hjhgf9a
+	Sample: $bitlocker$3$16$bb707ffb5cc0f3651ee0oiii42b60932$1048576$12$a0625ebdcccbd80105000000$60$454096dd6kjkkiuii6091f8c9578023b5d901908527d80eb789891121kjkjc35bcdd708578894400dff0825f311e6a342afd5ef4e40a2ff7a95hjhgf9a
+
 6. Run this command: python.exe script.py.
 #### Tested on:
 	windows 11,23H2 (OS Build 22631.3447)
 	Python 3.12.0
 ####  Author:
 HamidReza Kohzadpour, 2024, kohzadpour@gmail.com
-
 ![001](docs/001.png)
 ![002](docs/002.png)
 ![003](docs/003.png)
