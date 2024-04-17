@@ -26,7 +26,7 @@ python.exe script.py
 HamidReza Kohzadpour, 2024, kohzadpour@gmail.com
 
 
-![[docs/001.png]]
+![[001.png]]
 ![[docs/002.png]]
 ![[docs/003.png]]
 ![[docs/004.png]]
