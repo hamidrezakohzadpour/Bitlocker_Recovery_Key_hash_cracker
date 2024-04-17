@@ -12,7 +12,7 @@
 
 6. Run this command: python.exe script.py.
 #### Tested on:
-	windows 11,23H2 (OS Build 22631.3447)
+	Windows 11,23H2 (OS Build 22631.3447)
 	Python 3.12.0
 ####  Author:
 HamidReza Kohzadpour, 2024, kohzadpour@gmail.com
