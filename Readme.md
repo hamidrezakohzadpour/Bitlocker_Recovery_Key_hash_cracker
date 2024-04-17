@@ -9,11 +9,11 @@
 6. Add username and password of cisco device (privilage 15 required) into script.
 ```python
 Switch ={ 
-            'device_type': 'cisco_ios',
-            "ip": ip_address,
-            "username": "username",
-            "password": "password"
-            }
+        'device_type': 'cisco_ios',
+        "ip": ip_address,
+        "username": "username",
+        "password": "password"
+        }
 ```
 7. Run this command: 
 ```powershell
@@ -22,13 +22,12 @@ python.exe script.py
 #### Tested on:
 	windows 11,23H2 (OS Build 22631.3447)
 	Python 3.12.0
-####  Author
+####  Author:
 HamidReza Kohzadpour, 2024, kohzadpour@gmail.com
 
-
-![[001.png]]
-![[docs/002.png]]
-![[docs/003.png]]
-![[docs/004.png]]
-![[docs/005.png]]
-![[docs/006.png]]
+![001](docs/001.png)
+![002](docs/002.png)
+![003](docs/003.png)
+![004](docs/004.png)
+![005](docs/005.png)
+![006](docs/006.png)
