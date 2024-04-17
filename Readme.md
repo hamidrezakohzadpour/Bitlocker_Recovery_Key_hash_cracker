@@ -7,6 +7,7 @@
 	Run cmd and execute this command: john.exe --list=opencl-devices 
 4. Copy this script into run directory and side of john.exe
 5. Create a file into run directory with name "bitlocker_recovery_key_hash.txt" and put hash of recovery key in the file.
+		
 		Sample: $bitlocker$3$16$bb707ffb5cc0f3651ee0oiii42b60932$1048576$12$a0625
 				ebdcccbd80105000000$60$454096dd6kjkkiuii6091f8c9578023b5d90190852
 				7d80eb789891121kjkjc35bcdd708578894400dff0825f311e6a342afd5ef4e40
